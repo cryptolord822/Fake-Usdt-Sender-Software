@@ -25,7 +25,8 @@ Fake Usdt sender software Core network version 10.0.1
 _ Daily limit: $500k
 
 Interested clients and customers should write to us on whatsapp: +48 573 560 921 
-Email: Cryptolordtech@gmail.com 
+Email: Cryptolordtech@gmail.com
+
 https://wa.me/48573560921 
 
  Note: To be on a safer side we now accept escrow payment.![fake usdt](https://github.com/user-attachments/assets/0025abe8-8929-40ac-87c8-1fc4957bb1b8)
